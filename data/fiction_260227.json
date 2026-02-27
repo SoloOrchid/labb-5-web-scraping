@@ -1,0 +1,457 @@
+[
+    {
+        "id": 1,
+        "title": "Soumission",
+        "price_gbp": 50.1,
+        "price_sek": 610.8,
+        "rating": "One"
+    },
+    {
+        "id": 2,
+        "title": "Private Paris (Private #10)",
+        "price_gbp": 47.61,
+        "price_sek": 580.44,
+        "rating": "Five"
+    },
+    {
+        "id": 3,
+        "title": "We Love You, Charlie Freeman",
+        "price_gbp": 50.27,
+        "price_sek": 612.87,
+        "rating": "Five"
+    },
+    {
+        "id": 4,
+        "title": "Thirst",
+        "price_gbp": 17.27,
+        "price_sek": 210.55,
+        "rating": "Five"
+    },
+    {
+        "id": 5,
+        "title": "The Murder That Never Was (Forensic Instincts #5)",
+        "price_gbp": 54.11,
+        "price_sek": 659.69,
+        "rating": "Three"
+    },
+    {
+        "id": 6,
+        "title": "Tuesday Nights in 1980",
+        "price_gbp": 21.04,
+        "price_sek": 256.51,
+        "rating": "Two"
+    },
+    {
+        "id": 7,
+        "title": "The Vacationers",
+        "price_gbp": 42.15,
+        "price_sek": 513.87,
+        "rating": "Four"
+    },
+    {
+        "id": 8,
+        "title": "The Regional Office Is Under Attack!",
+        "price_gbp": 51.36,
+        "price_sek": 626.16,
+        "rating": "Five"
+    },
+    {
+        "id": 9,
+        "title": "Finders Keepers (Bill Hodges Trilogy #2)",
+        "price_gbp": 53.53,
+        "price_sek": 652.61,
+        "rating": "Five"
+    },
+    {
+        "id": 10,
+        "title": "The Time Keeper",
+        "price_gbp": 27.88,
+        "price_sek": 339.9,
+        "rating": "Five"
+    },
+    {
+        "id": 11,
+        "title": "The Testament of Mary",
+        "price_gbp": 52.67,
+        "price_sek": 642.13,
+        "rating": "Four"
+    },
+    {
+        "id": 12,
+        "title": "The First Hostage (J.B. Collins #2)",
+        "price_gbp": 25.85,
+        "price_sek": 315.15,
+        "rating": "Three"
+    },
+    {
+        "id": 13,
+        "title": "Take Me with You",
+        "price_gbp": 45.21,
+        "price_sek": 551.18,
+        "rating": "Three"
+    },
+    {
+        "id": 14,
+        "title": "Still Life with Bread Crumbs",
+        "price_gbp": 26.41,
+        "price_sek": 321.98,
+        "rating": "Three"
+    },
+    {
+        "id": 15,
+        "title": "Shtum",
+        "price_gbp": 55.84,
+        "price_sek": 680.78,
+        "rating": "Four"
+    },
+    {
+        "id": 16,
+        "title": "My Name Is Lucy Barton",
+        "price_gbp": 41.56,
+        "price_sek": 506.68,
+        "rating": "One"
+    },
+    {
+        "id": 17,
+        "title": "My Mrs. Brown",
+        "price_gbp": 24.48,
+        "price_sek": 298.45,
+        "rating": "Three"
+    },
+    {
+        "id": 18,
+        "title": "Mr. Mercedes (Bill Hodges Trilogy #1)",
+        "price_gbp": 28.9,
+        "price_sek": 352.34,
+        "rating": "One"
+    },
+    {
+        "id": 19,
+        "title": "I Am Pilgrim (Pilgrim #1)",
+        "price_gbp": 10.6,
+        "price_sek": 129.23,
+        "rating": "Four"
+    },
+    {
+        "id": 20,
+        "title": "Eligible (The Austen Project #4)",
+        "price_gbp": 27.09,
+        "price_sek": 330.27,
+        "rating": "Three"
+    },
+    {
+        "id": 21,
+        "title": "Eight Hundred Grapes",
+        "price_gbp": 14.39,
+        "price_sek": 175.44,
+        "rating": "Four"
+    },
+    {
+        "id": 22,
+        "title": "Dear Mr. Knightley",
+        "price_gbp": 11.21,
+        "price_sek": 136.67,
+        "rating": "Five"
+    },
+    {
+        "id": 23,
+        "title": "Cometh the Hour (The Clifton Chronicles #6)",
+        "price_gbp": 25.01,
+        "price_sek": 304.91,
+        "rating": "Three"
+    },
+    {
+        "id": 24,
+        "title": "Balloon Animals",
+        "price_gbp": 17.03,
+        "price_sek": 207.62,
+        "rating": "Three"
+    },
+    {
+        "id": 25,
+        "title": "A Man Called Ove",
+        "price_gbp": 39.72,
+        "price_sek": 484.25,
+        "rating": "One"
+    },
+    {
+        "id": 26,
+        "title": "The Silent Sister (Riley MacPherson #1)",
+        "price_gbp": 46.29,
+        "price_sek": 564.35,
+        "rating": "Five"
+    },
+    {
+        "id": 27,
+        "title": "The Dinner Party",
+        "price_gbp": 56.54,
+        "price_sek": 689.31,
+        "rating": "Two"
+    },
+    {
+        "id": 28,
+        "title": "The Improbability of Love",
+        "price_gbp": 59.45,
+        "price_sek": 724.79,
+        "rating": "One"
+    },
+    {
+        "id": 29,
+        "title": "Mothering Sunday",
+        "price_gbp": 13.34,
+        "price_sek": 162.64,
+        "rating": "Two"
+    },
+    {
+        "id": 30,
+        "title": "Lies and Other Acts of Love",
+        "price_gbp": 45.14,
+        "price_sek": 550.33,
+        "rating": "One"
+    },
+    {
+        "id": 31,
+        "title": "Daredevils",
+        "price_gbp": 16.34,
+        "price_sek": 199.21,
+        "rating": "Three"
+    },
+    {
+        "id": 32,
+        "title": "11/22/63",
+        "price_gbp": 48.48,
+        "price_sek": 591.05,
+        "rating": "Three"
+    },
+    {
+        "id": 33,
+        "title": "The Shack",
+        "price_gbp": 28.03,
+        "price_sek": 341.73,
+        "rating": "One"
+    },
+    {
+        "id": 34,
+        "title": "The High Mountains of Portugal",
+        "price_gbp": 51.15,
+        "price_sek": 623.6,
+        "rating": "One"
+    },
+    {
+        "id": 35,
+        "title": "Miller's Valley",
+        "price_gbp": 58.54,
+        "price_sek": 713.69,
+        "rating": "Two"
+    },
+    {
+        "id": 36,
+        "title": "Hystopia: A Novel",
+        "price_gbp": 21.96,
+        "price_sek": 267.73,
+        "rating": "Four"
+    },
+    {
+        "id": 37,
+        "title": "The Bourne Identity (Jason Bourne #1)",
+        "price_gbp": 42.78,
+        "price_sek": 521.56,
+        "rating": "Four"
+    },
+    {
+        "id": 38,
+        "title": "Sister Dear",
+        "price_gbp": 40.2,
+        "price_sek": 490.1,
+        "rating": "Four"
+    },
+    {
+        "id": 39,
+        "title": "Memoirs of a Geisha",
+        "price_gbp": 49.67,
+        "price_sek": 605.56,
+        "rating": "Three"
+    },
+    {
+        "id": 40,
+        "title": "Me Before You (Me Before You #1)",
+        "price_gbp": 19.02,
+        "price_sek": 231.88,
+        "rating": "One"
+    },
+    {
+        "id": 41,
+        "title": "Deception Point",
+        "price_gbp": 40.32,
+        "price_sek": 491.56,
+        "rating": "Four"
+    },
+    {
+        "id": 42,
+        "title": "The Little Paris Bookshop",
+        "price_gbp": 24.73,
+        "price_sek": 301.5,
+        "rating": "Three"
+    },
+    {
+        "id": 43,
+        "title": "The Firm",
+        "price_gbp": 45.56,
+        "price_sek": 555.45,
+        "rating": "Three"
+    },
+    {
+        "id": 44,
+        "title": "The Expatriates",
+        "price_gbp": 44.58,
+        "price_sek": 543.5,
+        "rating": "Two"
+    },
+    {
+        "id": 45,
+        "title": "Siddhartha",
+        "price_gbp": 34.22,
+        "price_sek": 417.2,
+        "rating": "Five"
+    },
+    {
+        "id": 46,
+        "title": "Last One Home (New Beginnings #1)",
+        "price_gbp": 59.98,
+        "price_sek": 731.25,
+        "rating": "Three"
+    },
+    {
+        "id": 47,
+        "title": "Digital Fortress",
+        "price_gbp": 58.0,
+        "price_sek": 707.11,
+        "rating": "Five"
+    },
+    {
+        "id": 48,
+        "title": "Atlas Shrugged",
+        "price_gbp": 26.58,
+        "price_sek": 324.05,
+        "rating": "Five"
+    },
+    {
+        "id": 49,
+        "title": "Three-Martini Lunch",
+        "price_gbp": 23.21,
+        "price_sek": 282.97,
+        "rating": "Three"
+    },
+    {
+        "id": 50,
+        "title": "The Nightingale",
+        "price_gbp": 26.26,
+        "price_sek": 320.15,
+        "rating": "Four"
+    },
+    {
+        "id": 51,
+        "title": "The Infinities",
+        "price_gbp": 27.41,
+        "price_sek": 334.17,
+        "rating": "One"
+    },
+    {
+        "id": 52,
+        "title": "The Husband's Secret",
+        "price_gbp": 52.51,
+        "price_sek": 640.18,
+        "rating": "Five"
+    },
+    {
+        "id": 53,
+        "title": "The Da Vinci Code (Robert Langdon #2)",
+        "price_gbp": 22.96,
+        "price_sek": 279.92,
+        "rating": "Two"
+    },
+    {
+        "id": 54,
+        "title": "The Art of Fielding",
+        "price_gbp": 22.1,
+        "price_sek": 269.43,
+        "rating": "One"
+    },
+    {
+        "id": 55,
+        "title": "Lila (Gilead #3)",
+        "price_gbp": 12.47,
+        "price_sek": 152.03,
+        "rating": "Three"
+    },
+    {
+        "id": 56,
+        "title": "Jurassic Park (Jurassic Park #1)",
+        "price_gbp": 44.97,
+        "price_sek": 548.26,
+        "rating": "One"
+    },
+    {
+        "id": 57,
+        "title": "Inferno (Robert Langdon #4)",
+        "price_gbp": 41.0,
+        "price_sek": 499.85,
+        "rating": "Five"
+    },
+    {
+        "id": 58,
+        "title": "Crazy Rich Asians (Crazy Rich Asians #1)",
+        "price_gbp": 49.13,
+        "price_sek": 598.97,
+        "rating": "Five"
+    },
+    {
+        "id": 59,
+        "title": "Big Little Lies",
+        "price_gbp": 22.11,
+        "price_sek": 269.56,
+        "rating": "One"
+    },
+    {
+        "id": 60,
+        "title": "The Course of Love",
+        "price_gbp": 16.78,
+        "price_sek": 204.57,
+        "rating": "Three"
+    },
+    {
+        "id": 61,
+        "title": "When I'm Gone",
+        "price_gbp": 51.96,
+        "price_sek": 633.47,
+        "rating": "Three"
+    },
+    {
+        "id": 62,
+        "title": "The Silent Wife",
+        "price_gbp": 12.34,
+        "price_sek": 150.44,
+        "rating": "Five"
+    },
+    {
+        "id": 63,
+        "title": "The Bette Davis Club",
+        "price_gbp": 30.66,
+        "price_sek": 373.79,
+        "rating": "Three"
+    },
+    {
+        "id": 64,
+        "title": "Kitchens of the Great Midwest",
+        "price_gbp": 57.2,
+        "price_sek": 697.36,
+        "rating": "Five"
+    },
+    {
+        "id": 65,
+        "title": "Bright Lines",
+        "price_gbp": 39.07,
+        "price_sek": 476.32,
+        "rating": "Five"
+    }
+]

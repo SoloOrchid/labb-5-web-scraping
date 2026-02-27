@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Travel",
+        "url": "http://books.toscrape.com/catalogue/category/books/travel_2/index.html"
+    },
+    {
+        "name": "Mystery",
+        "url": "http://books.toscrape.com/catalogue/category/books/mystery_3/index.html"
+    },
+    {
+        "name": "Historical Fiction",
+        "url": "http://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html"
+    },
+    {
+        "name": "Sequential Art",
+        "url": "http://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html"
+    },
+    {
+        "name": "Classics",
+        "url": "http://books.toscrape.com/catalogue/category/books/classics_6/index.html"
+    },
+    {
+        "name": "Philosophy",
+        "url": "http://books.toscrape.com/catalogue/category/books/philosophy_7/index.html"
+    },
+    {
+        "name": "Romance",
+        "url": "http://books.toscrape.com/catalogue/category/books/romance_8/index.html"
+    },
+    {
+        "name": "Womens Fiction",
+        "url": "http://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html"
+    },
+    {
+        "name": "Fiction",
+        "url": "http://books.toscrape.com/catalogue/category/books/fiction_10/index.html"
+    },
+    {
+        "name": "Childrens",
+        "url": "http://books.toscrape.com/catalogue/category/books/childrens_11/index.html"
+    },
+    {
+        "name": "Religion",
+        "url": "http://books.toscrape.com/catalogue/category/books/religion_12/index.html"
+    },
+    {
+        "name": "Nonfiction",
+        "url": "http://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html"
+    },
+    {
+        "name": "Music",
+        "url": "http://books.toscrape.com/catalogue/category/books/music_14/index.html"
+    },
+    {
+        "name": "Default",
+        "url": "http://books.toscrape.com/catalogue/category/books/default_15/index.html"
+    },
+    {
+        "name": "Science Fiction",
+        "url": "http://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html"
+    },
+    {
+        "name": "Sports and Games",
+        "url": "http://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html"
+    },
+    {
+        "name": "Add a comment",
+        "url": "http://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html"
+    },
+    {
+        "name": "Fantasy",
+        "url": "http://books.toscrape.com/catalogue/category/books/fantasy_19/index.html"
+    },
+    {
+        "name": "New Adult",
+        "url": "http://books.toscrape.com/catalogue/category/books/new-adult_20/index.html"
+    },
+    {
+        "name": "Young Adult",
+        "url": "http://books.toscrape.com/catalogue/category/books/young-adult_21/index.html"
+    },
+    {
+        "name": "Science",
+        "url": "http://books.toscrape.com/catalogue/category/books/science_22/index.html"
+    },
+    {
+        "name": "Poetry",
+        "url": "http://books.toscrape.com/catalogue/category/books/poetry_23/index.html"
+    },
+    {
+        "name": "Paranormal",
+        "url": "http://books.toscrape.com/catalogue/category/books/paranormal_24/index.html"
+    },
+    {
+        "name": "Art",
+        "url": "http://books.toscrape.com/catalogue/category/books/art_25/index.html"
+    },
+    {
+        "name": "Psychology",
+        "url": "http://books.toscrape.com/catalogue/category/books/psychology_26/index.html"
+    },
+    {
+        "name": "Autobiography",
+        "url": "http://books.toscrape.com/catalogue/category/books/autobiography_27/index.html"
+    },
+    {
+        "name": "Parenting",
+        "url": "http://books.toscrape.com/catalogue/category/books/parenting_28/index.html"
+    },
+    {
+        "name": "Adult Fiction",
+        "url": "http://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html"
+    },
+    {
+        "name": "Humor",
+        "url": "http://books.toscrape.com/catalogue/category/books/humor_30/index.html"
+    },
+    {
+        "name": "Horror",
+        "url": "http://books.toscrape.com/catalogue/category/books/horror_31/index.html"
+    },
+    {
+        "name": "History",
+        "url": "http://books.toscrape.com/catalogue/category/books/history_32/index.html"
+    },
+    {
+        "name": "Food and Drink",
+        "url": "http://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html"
+    },
+    {
+        "name": "Christian Fiction",
+        "url": "http://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html"
+    },
+    {
+        "name": "Business",
+        "url": "http://books.toscrape.com/catalogue/category/books/business_35/index.html"
+    },
+    {
+        "name": "Biography",
+        "url": "http://books.toscrape.com/catalogue/category/books/biography_36/index.html"
+    },
+    {
+        "name": "Thriller",
+        "url": "http://books.toscrape.com/catalogue/category/books/thriller_37/index.html"
+    },
+    {
+        "name": "Contemporary",
+        "url": "http://books.toscrape.com/catalogue/category/books/contemporary_38/index.html"
+    },
+    {
+        "name": "Spirituality",
+        "url": "http://books.toscrape.com/catalogue/category/books/spirituality_39/index.html"
+    },
+    {
+        "name": "Academic",
+        "url": "http://books.toscrape.com/catalogue/category/books/academic_40/index.html"
+    },
+    {
+        "name": "Self Help",
+        "url": "http://books.toscrape.com/catalogue/category/books/self-help_41/index.html"
+    },
+    {
+        "name": "Historical",
+        "url": "http://books.toscrape.com/catalogue/category/books/historical_42/index.html"
+    },
+    {
+        "name": "Christian",
+        "url": "http://books.toscrape.com/catalogue/category/books/christian_43/index.html"
+    },
+    {
+        "name": "Suspense",
+        "url": "http://books.toscrape.com/catalogue/category/books/suspense_44/index.html"
+    },
+    {
+        "name": "Short Stories",
+        "url": "http://books.toscrape.com/catalogue/category/books/short-stories_45/index.html"
+    },
+    {
+        "name": "Novels",
+        "url": "http://books.toscrape.com/catalogue/category/books/novels_46/index.html"
+    },
+    {
+        "name": "Health",
+        "url": "http://books.toscrape.com/catalogue/category/books/health_47/index.html"
+    },
+    {
+        "name": "Politics",
+        "url": "http://books.toscrape.com/catalogue/category/books/politics_48/index.html"
+    },
+    {
+        "name": "Cultural",
+        "url": "http://books.toscrape.com/catalogue/category/books/cultural_49/index.html"
+    },
+    {
+        "name": "Erotica",
+        "url": "http://books.toscrape.com/catalogue/category/books/erotica_50/index.html"
+    },
+    {
+        "name": "Crime",
+        "url": "http://books.toscrape.com/catalogue/category/books/crime_51/index.html"
+    }
+]
